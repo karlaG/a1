@@ -1,0 +1,44 @@
+body {
+	background-color: #3388cc;
+	margin: auto;
+	width: 75%;
+	color: white;
+}
+
+div {
+	background-color: #054172;
+	padding: 1em;
+	margin: 1em;
+	border-radius: 10px;
+}
+
+img {
+	margin: auto;
+	display: block;
+	height: 25%;
+	width: 25%;
+	border-radius: 5px;
+}
+
+h1 {
+	font-family: "courier new";
+	font-style: bold;
+	font-size: 2em;
+}
+
+h2 {
+	font-family: "courier new";
+	font-style: normal;
+	font-size: 1.5em;
+}
+
+p {
+	font-family: "arial";
+	font-size: 1em;
+}
+
+blockquote {
+	font-family: "arial";
+	font-style: italic;
+	font-size: 1em;
+}
